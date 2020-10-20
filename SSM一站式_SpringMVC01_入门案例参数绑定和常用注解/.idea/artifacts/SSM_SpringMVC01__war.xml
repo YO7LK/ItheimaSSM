@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SSM一站式_SpringMVC01_入门案例参数绑定和常用注解:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SSM一站式_SpringMVC01_入门案例参数绑定和常用注解</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SpringMVC01.war">
+      <element id="artifact" artifact-name="SSM一站式_SpringMVC01_入门案例参数绑定和常用注解:war exploded" />
+    </root>
+  </artifact>
+</component>
